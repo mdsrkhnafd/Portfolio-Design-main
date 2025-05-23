@@ -67799,7 +67799,7 @@ l=r}i.push(A.bm("Follow Me",l,o))
 i.push(B.aB)
 i.push(A.eK(A.b([p.rB(a,u.T,"GitHub","https://github.com/mdsrkhnafd"),B.dI,p.rB(a,u.q,"LinkedIn","https://www.linkedin.com/in/mdsrkhnafd/"),B.dI,p.rB(a,"https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png","Facebook","https://www.facebook.com/orhan.afridi"),B.dI,p.rB(a,"https://cdn-icons-png.flaticon.com/512/1384/1384063.png","Instagram","https://www.instagram.com/sallo_bangash?igsh=MWk1dmI0OWtkZWl6YQ==")],j),B.N,B.D,B.E))
 i=A.b([A.uz(new A.d5(B.Ba,A.cO(i,B.ad,B.D,B.E),o),1)],j)
-if(!m)B.b.M(i,A.b([B.wh,A.uz(A.Wn("AppAssets.abdulpic",o,o,o,o),1)],j))
+if(!m)B.b.M(i,A.b([B.wh,A.uz(A.Wn("assets/images/abdul.png",o,o,o,o),1)],j))
 return A.bv(o,A.eK(i,B.N,B.D,B.E),B.n,o,o,o,o,o,o,new A.at(0,k,0,k),o,o,o)},
 rB(a,b,c,d){var s=null,r=A.tt(B.ec,1),q=A.cu(50)
 return A.bv(s,A.ke(s,s,A.EV(b,30,30),s,s,new A.Qy(d),s,s,s),B.n,s,s,new A.b8(s,s,r,q,s,s,B.F),s,s,s,s,s,s,s)}}
