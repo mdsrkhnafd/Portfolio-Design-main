@@ -30,9 +30,9 @@ class AppStrings {
   static const String facebook = 'Facebook';
   static const String insta = 'Instagram';
   static const String githubUrl = 'https://github.com/mdsrkhnafd';
-  static const String linkedinUrl = 'https://www.linkedin.com/in/abdulsalamas/';
+  static const String linkedinUrl = 'https://www.linkedin.com/in/mdsrkhnafd/';
   static const String facebookUrl =
-      'https://www.facebook.com/profile.php?id=100064026879899';
+      'https://www.facebook.com/orhan.afridi';
   static const String instagramurl =
       "https://cdn-icons-png.flaticon.com/512/1384/1384063.png";
 
@@ -66,6 +66,7 @@ class AppStrings {
   static const String skillGetX = 'GetX';
   static const String skillBloc = 'Bloc';
   static const String skillRiverpod = 'Riverpod';
+  static const String skillprovider = 'Provider';
   static const String skillUIUX = 'UI/UX';
   static const String skillGit = 'Git';
   static const String skillSQLite = 'SQLite';

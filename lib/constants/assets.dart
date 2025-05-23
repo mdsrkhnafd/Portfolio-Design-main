@@ -7,6 +7,7 @@ class AppAssets {
   static const String getXIcon = "assets/icons/getx.png";
   static const String blocIcon = "assets/icons/bloc.png";
   static const String riverpodIcon = "assets/icons/riverpod.png";
+  static const String providerIcon = "assets/icons/provider.png";
   static const String uiUxIcon = "assets/icons/figma.png";
   static const String gitIcon = "assets/icons/git.png";
   static const String sqliteIcon = "assets/icons/sqflite.png";

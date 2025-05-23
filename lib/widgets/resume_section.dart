@@ -77,7 +77,7 @@ class ResumeSection extends StatelessWidget {
         _buildTimelineItem(
           context,
           title: 'Senior Flutter Developer',
-          company: 'Saeedan Technology',
+          company: 'MaxTech Riphah International University',
           period: '2023 - Present',
           description:
               'Leading mobile app development team, implementing complex features and mentoring junior developers.',
@@ -85,11 +85,11 @@ class ResumeSection extends StatelessWidget {
         const SizedBox(height: 24),
         _buildTimelineItem(
           context,
-          title: 'Flutter Developer',
-          company: 'Codematics',
-          period: '2022 - 2023',
+          title: 'Android Developer',
+          company: 'MaxTech Riphah International University',
+          period: '2021 - 2022',
           description:
-              'Developed and maintained multiple Flutter applications, focusing on performance optimization and user experience.',
+              'Developed and maintained multiple Android applications, focusing on performance optimization and user experience.',
         ),
       ],
     );
@@ -108,17 +108,17 @@ class ResumeSection extends StatelessWidget {
         const SizedBox(height: 32),
         _buildTimelineItem(
           context,
-          title: 'Bachelor of Software Engineering',
-          company: 'Abbottabad University of Science and Technology',
-          period: '2013 - 2017',
+          title: 'Bachelor in Computer Science',
+          company: 'Kohat University of Science and Technology',
+          period: '2016 - 2020',
           description:
               "During my Bachelor's degree, I built a strong foundation in core programming concepts, data structures, and algorithms.",
         ),
         const SizedBox(height: 24),
         _buildTimelineItem(context,
-            title: 'A Level in ICS',
-            company: 'Doaba Higher Secondary School and College',
-            period: '2017 - 2019',
+            title: 'Pre Engineering',
+            company: 'Quaid Inter College Kohat',
+            period: '2014 - 2016',
             description:
                 'Studied Intermediate in Computer Science with a focus on the fundamentals of programming, and computer systems,logic building,and problem-solving'),
       ],

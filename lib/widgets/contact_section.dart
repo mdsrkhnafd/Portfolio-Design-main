@@ -98,7 +98,7 @@ class ContactSection extends StatelessWidget {
           MouseRegion(
             cursor: SystemMouseCursors.click,
             child: GestureDetector(
-              onTap: () => _launchUrl('mailto:abdulsalam.0302@gmail.com'),
+              onTap: () => _launchUrl('mailto:afridi4mudasir@gmail.com'),
               child: Container(
                 padding: EdgeInsets.symmetric(
                   horizontal: isMobile ? 16 : 24,
@@ -128,7 +128,7 @@ class ContactSection extends StatelessWidget {
                     ),
                     const SizedBox(width: 8),
                     Text(
-                      'abdulsalam.0302@gmail.com',
+                      'afridi4mudasir@gmail.com',
                       style: Theme.of(context).textTheme.titleMedium?.copyWith(
                             color: Theme.of(context).colorScheme.onPrimary,
                             fontWeight: FontWeight.w600,
@@ -160,7 +160,7 @@ class ContactSection extends StatelessWidget {
               "https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png",
           title: 'LinkedIn',
           subtitle: 'Connect with me',
-          onTap: () => _launchUrl('https://www.linkedin.com/in/abdulsalamas/'),
+          onTap: () => _launchUrl('https://www.linkedin.com/in/mdsrkhnafd/'),
           color: const Color(0xFF0077B5),
           size: cardSize,
           iconSize: iconSize,
@@ -176,7 +176,7 @@ class ContactSection extends StatelessWidget {
               "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
           title: 'GitHub',
           subtitle: 'Check my work',
-          onTap: () => _launchUrl('https://github.com/abdul-salam111'),
+          onTap: () => _launchUrl('https://github.com/mdsrkhnafd'),
           color: const Color(0xFF333333),
           size: cardSize,
           iconSize: iconSize,
@@ -190,8 +190,8 @@ class ContactSection extends StatelessWidget {
         child: _ContactCard(
           icon: "https://cdn-icons-png.freepik.com/256/17025/17025066.png",
           title: 'Phone',
-          subtitle: '+923115308116',
-          onTap: () => _launchUrl('tel:+923115308116'),
+          subtitle: '+923360415787',
+          onTap: () => _launchUrl('tel:+923360415787'),
           color: Theme.of(context).colorScheme.primary,
           size: cardSize,
           iconSize: iconSize,

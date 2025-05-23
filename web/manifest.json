@@ -1,11 +1,11 @@
 {
-    "name": "Abdul Salam",
+    "name": "Mudasir Khan",
     "short_name": "AS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Abdul Salam - Flutter Developer Portfolio",
+    "description": "Mudasir Khan - Flutter Developer Portfolio",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
