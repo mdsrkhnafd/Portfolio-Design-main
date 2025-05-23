@@ -9,6 +9,7 @@ void main() {
   runApp(const MyApp());
 }
 
+// ignore: must_be_immutable
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
